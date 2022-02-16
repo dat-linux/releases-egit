@@ -1,1 +1,1 @@
-# releases-egit
+releases-egit
